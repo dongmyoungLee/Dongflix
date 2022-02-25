@@ -1,0 +1,12 @@
+- 헬멧 라이브러리로 타이틀을 조건문과 함께 바꿔줬음
+
+- Nav 에서  useViewportScroll 을 이용해서 현재 scrollY 값을 알아낸 후  useEffect 를 사용해서 scrollY값과 navAnimation 값이 업데이트될때 마다  조건문을 걸어서 색깔이 바뀌는 애니메이션을 실행하였음.
+
+- svg 로고는 hover 시 infinity 조건으로 opacity 애니메이션을 설정하였음.
+
+- search (form tag) 에서 돋보기 svg는  애니메이션으로 클릭시 x 좌표의 값을 이용해서 이동시켰음.
+
+- search (form tag) 에서 input 도 마찬가지로 scaleX 의 값을 이용해서 애니메이션을 적용함.
+
+- menu 밑의 active bar 는 
+

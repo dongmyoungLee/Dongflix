@@ -30,6 +30,7 @@ body {
   color:${(props) => props.theme.white.darker};
   line-height: 1.2;
   background-color: black;
+  height: 200vh;
 }
 a {
   text-decoration:none;
