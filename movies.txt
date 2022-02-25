@@ -1,0 +1,7 @@
+- useQuery를 사용해서 api를 받아오고 그 api로 데이터바인딩을 하였음.
+
+- 슬라이드는 index state 를 이용해 6으로 나눠서 floor 로 내림 하였고, 좌우 슬라이드는 motion 의 custom 을 이용함.
+
+- custom 은 true, false 의 값으로 state 를 만들고 컴포넌트에서 함수형식으로 애니메이션을 만들었음.
+
+-living 은 슬라이드 재생시 밀리는 현상을 막기위해 사용함.
