@@ -6,6 +6,7 @@
 | :-----: | :---: |
 |  Page   |       |
 
+ <img src="https://dongmyounglee.github.io/port/project1.png" />
 ## 🛠 Stack
 
 ### Front-end
