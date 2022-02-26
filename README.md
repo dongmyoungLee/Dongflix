@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+# Nomflix / NetFlix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🖥 Preview
 
-## Available Scripts
+| Feature | Views |
+| :-----: | :---: |
+|  Page   |       |
 
-In the project directory, you can run:
+## 🛠 Stack
 
-### `npm start`
+### Front-end
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&logoColor=F7DF1E"/>
+<img height="30" src="https://camo.githubusercontent.com/401c2a7eb89ce4e070033f59b5829fc8de15ea06241e9a0becf1c4dc57c2fdbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d23363144414642"/>
+<img height="30" src="https://camo.githubusercontent.com/cbf63932145b212893e33c44e0ab7ecbb6b679566e6d407b85a15c92c9ef0b47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065736372697074266c6f676f436f6c6f723d333137384336"/>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📦 Packages
 
-### `npm test`
+- [x] ES6
+- [x] REACT
+- [x] REACT-QUERY
+- [x] REACT-HOOK-FORM
+- [x] ROUTER
+- [x] RECOIL
+- [x] STYLED-COMPONENTS
+- [x] FRAMER-MOTION
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📖 Theory
 
-### `npm run build`
+- [x] useAnimation
+- [x] useViewportScroll
+- [x] Animation - variants
+- [x] AnimatePresence
+- [x] useQuery
+- [x] useViewportScroll
+- [x] useForm
+- [x] useLocation
+- [x] useHistory
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙ Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🙎‍♂️ Users
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] update...
 
-### `npm run eject`
+## 🚀 Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [x] update...
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ⏳ More Todos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [x] Add to other Slider
+- [x] TV SHOW
+- [x] Card Design
+- [x] Search Form
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Problems..
 
-## Learn More
+- [x] 해상도 별 슬라이드 이슈.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔗 Link
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### [Nomflix](http://pajang1515.dothome.co.kr/dongflix/)
