@@ -28,7 +28,6 @@
 
 ## 📖 Theory
 
-- [x] useAnimation
 - [x] useViewportScroll
 - [x] Animation - variants
 - [x] AnimatePresence
