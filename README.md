@@ -1,4 +1,4 @@
-# Nomflix / NetFlix Clone
+# Dongflix / NetFlix Clone
 
 ## 🖥 Preview
 
