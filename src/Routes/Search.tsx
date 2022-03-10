@@ -324,7 +324,7 @@ function Search() {
     history.push("/");
     setDetail(false);
   };
-
+  console.log(movieData);
   return (
     <Wrapper>
       {movieLoading && tvLoading && movieData?.results && tvData?.results ? (

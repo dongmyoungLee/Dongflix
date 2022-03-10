@@ -48,6 +48,7 @@ const Title = styled.h2`
 const Overview = styled.p`
   font-size: 30px;
   width: 50%;
+  text-shadow: 2px 2px 2px #000;
 `;
 
 const Slider = styled.div`
@@ -173,6 +174,8 @@ const infoVariants = {
   },
 };
 
+const Overtext = styled.span``;
+
 const offset = 6;
 
 function Movie() {
@@ -228,15 +231,20 @@ function Movie() {
         <>
           <Banner
             bgphoto={makeImagePath(
-              data?.pages.map((page) => page.results).flat()[0].backdrop_path ||
+              data?.pages.map((page) => page.results).flat()[8].backdrop_path ||
                 DEFAULT_IMG
             )}
           >
             <Title>
-              {data?.pages.map((page) => page.results).flat()[0].title}
+              {data?.pages.map((page) => page.results).flat()[8].title}
             </Title>
             <Overview>
-              {data?.pages.map((page) => page.results).flat()[0].overview}
+              {/* {data?.pages.map((page) => page.results).flat()[8].overview} */}
+              <Overtext>
+                낭만적인 휴가를 떠난 부부는 열대 폭풍우가 그들의 빌라를 휩쓸고
+                바다에 좌초된 자신을 발견합니다.그들은 악천후와 싸워야 하고
+                상어들은 그 아래를 맴돌고 있습니다..
+              </Overtext>
             </Overview>
           </Banner>
           <Slider>
